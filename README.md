@@ -1,11 +1,12 @@
 ## Hi there 👋
 
 
-**kathylam204/kathylam204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**kathylam204/kathylam204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
 
 🔭 I’m currently working on ...
+     <a href="[url](https://kathylam204.github.io/)">My CV</a>
 
 🌱 I’m currently learning ...
 
@@ -16,6 +17,7 @@ Here are some ideas to get you started:
 💬 Ask me about ...
 
 📫 How to reach me: ...
+      <a href="[url](https://www.linkedin.com/in/klam204/)">LinkedIn</a>
 
 😄 Pronouns:
       she/her/they/them
