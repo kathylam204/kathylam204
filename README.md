@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:-->
 
-🔭 I’m currently working <br>
+💻 I’m currently working <br>
      <a href="https://kathylam204.github.io/">My CV</a>
 
-🌱 I’m currently learning <br>
+🌼 I’m currently learning <br>
 
 👯 I’m looking to collaborate on <br>
 
