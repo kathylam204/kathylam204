@@ -7,7 +7,7 @@ Here are some ideas to get you started:-->
 
 💻 I'm an entry-level software developer interested in data analysis, web applications, machine learning, and technology in general. Outside of my interests in technology, I am a lyricist, avid reader & writer, and pending business owner.
 
-🪛 <h2>I’m currently working on</h2> <br>
+<h3>🪛 I’m currently working on</h3> <br>
      <ul>
           <li>My CV / Personal Portfolio Website</li>
           <li>Revising code from previous projects.</li>
@@ -16,7 +16,7 @@ Here are some ideas to get you started:-->
           <!-- Add more responsibilities and achievements here -->
      </ul>
   
-👯 I’m looking to collaborate on <br>
+<h3>👯 I’m looking to collaborate on</h3> <br>
      <ul>
           <li>Front-End applications</li>
           <li>Back-End applications</li>
@@ -26,18 +26,12 @@ Here are some ideas to get you started:-->
           <!-- Add more responsibilities and achievements here -->
      </ul>
 
-📫 How to reach me <br>
+<h3>📫 How to reach me</h3> <br>
      <a href= "https://www.linkedin.com/in/klam204/"> Linkedin </a> <br>
      <a href= "https://github.com/kathylam204"> Github </a> <br>
      <a href= "mailto: kathylambusiness@gmail.com"> Email: kathylambusiness@gmail.com </a>
 
-😄 Pronouns <br>
-     she/her/they/them
-
-⚡ Fun fact: <br>
-     I am a lyricist for fun, currently developing a business, and an avid reader and writer.
-
-🗃️ Repo / Project List <br>
+<h3>🗃️ Repo / Project List</h3> <br>
      <p>CV</p>
      <a href= "https://www.linkedin.com/in/klam204/"> Linkedin </a> <br>
      <p>CV</p>
