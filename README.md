@@ -7,7 +7,7 @@ Here are some ideas to get you started:-->
 
 💻 I'm an entry-level software developer interested in data analysis, web applications, machine learning, and technology in general. Outside of my interests in technology, I am a lyricist, avid reader & writer, and pending business owner.
 
-<h3>🪛 I’m currently working on</h3> <br>
+<h3>🪛 I’m currently working on</h3>
      <ul>
           <li>My CV / Personal Portfolio Website</li>
           <li>Revising code from previous projects.</li>
@@ -16,7 +16,7 @@ Here are some ideas to get you started:-->
           <!-- Add more responsibilities and achievements here -->
      </ul>
   
-<h3>👯 I’m looking to collaborate on</h3> <br>
+<h3>👯 I’m looking to collaborate on</h3>
      <ul>
           <li>Front-End applications</li>
           <li>Back-End applications</li>
@@ -26,12 +26,12 @@ Here are some ideas to get you started:-->
           <!-- Add more responsibilities and achievements here -->
      </ul>
 
-<h3>📫 How to reach me</h3> <br>
+<h3>📫 How to reach me</h3>
      <a href= "https://www.linkedin.com/in/klam204/"> Linkedin </a> <br>
      <a href= "https://github.com/kathylam204"> Github </a> <br>
      <a href= "mailto: kathylambusiness@gmail.com"> Email: kathylambusiness@gmail.com </a>
 
-<h3>🗃️ Repo / Project List</h3> <br>
+<h3>🗃️ Repo / Project List</h3>
      <p>CV</p>
      <a href= "https://kathylam204.github.io/"> My CV / Portfolio Website </a> <br>
      <!--<p>CV</p>
