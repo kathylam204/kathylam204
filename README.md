@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **kathylam204/kathylam204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -22,4 +22,3 @@ Here are some ideas to get you started:
 
 ⚡ Fun fact:
       I am a lyricist for fun, currently developing a business, and an avid reader and writer.
--->
