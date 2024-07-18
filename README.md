@@ -6,7 +6,7 @@
 Here are some ideas to get you started:-->
 
 🔭 I’m currently working on ...
-     <a href="[https://kathylam204.github.io/]">My CV</a>
+     <a href="https://kathylam204.github.io/">My CV</a>
 
 🌱 I’m currently learning ...
 
@@ -17,7 +17,7 @@ Here are some ideas to get you started:-->
 💬 Ask me about ...
 
 📫 How to reach me: ...
-      <a href="[https://www.linkedin.com/in/klam204/]">LinkedIn</a>
+      <a href="https://www.linkedin.com/in/klam204/">LinkedIn</a>
 
 😄 Pronouns:she/her/they/them
 
