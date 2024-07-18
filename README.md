@@ -33,7 +33,7 @@ Here are some ideas to get you started:-->
 
 <h3>🗃️ Repo / Project List</h3> <br>
      <p>CV</p>
-     <a href= "https://www.linkedin.com/in/klam204/"> Linkedin </a> <br>
-     <p>CV</p>
+     <a href= "https://kathylam204.github.io/"> My CV / Portfolio Website </a> <br>
+     <!--<p>CV</p>
      <a href= "https://github.com/kathylam204"> Github </a> <br>
-     <a href= "mailto: kathylambusiness@gmail.com"> Email: kathylambusiness@gmail.com </a>
+     <a href= "mailto: kathylambusiness@gmail.com"> Email: kathylambusiness@gmail.com </a>-->
