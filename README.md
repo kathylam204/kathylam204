@@ -5,21 +5,22 @@
 
 Here are some ideas to get you started:-->
 
-🔭 I’m currently working on ...
+🔭 I’m currently working <br>
      <a href="https://kathylam204.github.io/">My CV</a>
 
-🌱 I’m currently learning ...
+🌱 I’m currently learning <br>
 
-👯 I’m looking to collaborate on ...
+👯 I’m looking to collaborate on <br>
 
-🤔 I’m looking for help with ...
+🤔 I’m looking for help with <br>
 
-💬 Ask me about ...
+💬 Ask me about <br>
 
-📫 How to reach me: ...
+📫 How to reach me: <br>
       <a href="https://www.linkedin.com/in/klam204/">LinkedIn</a>
 
-😄 Pronouns:she/her/they/them
+😄 Pronouns: <br>
+     she/her/they/them
 
-⚡ Fun fact:
+⚡ Fun fact: <br>
       I am a lyricist for fun, currently developing a business, and an avid reader and writer.
