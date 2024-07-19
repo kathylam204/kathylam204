@@ -33,8 +33,9 @@ Here are some ideas to get you started:-->
 
 <h3>🗃️ Repo / Project List</h3>
      <h4>CV</h4>
-     <a href= "https://kathylam204.github.io/"> My CV / Portfolio Website </a> <br>
+     <a href= "https://kathylam204.github.io/"> My CV / Portfolio Website </a>
      <h4>Javascript</h4>
+     <a href= "https://github.com/kathylam204/coin-flip"> Coin Flip </a>
      <h4>Java</h4>
      <h4>Python</h4>
      <h4>C#</h4>
