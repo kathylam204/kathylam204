@@ -34,6 +34,13 @@ Here are some ideas to get you started:-->
 <h3>🗃️ Repo / Project List</h3>
      <h4>CV</h4>
      <a href= "https://kathylam204.github.io/"> My CV / Portfolio Website </a> <br>
+     <h4>Javascript</h4>
+     <h4>Java</h4>
+     <h4>Python</h4>
+     <h4>C#</h4>
+     <h4>SQL</h4>
+     <h4>Typescript</h4>
+     <h4>C++</h4>
      <!--<p>CV</p>
      <a href= "https://github.com/kathylam204"> Github </a> <br>
      <a href= "mailto: kathylambusiness@gmail.com"> Email: kathylambusiness@gmail.com </a>-->
