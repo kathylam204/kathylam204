@@ -29,7 +29,7 @@ Here are some ideas to get you started:-->
 <h3>📫 How to reach me</h3>
      <a href= "https://www.linkedin.com/in/klam204/"> Linkedin </a> <br>
      <a href= "https://github.com/kathylam204"> Github </a> <br>
-     <a href= "mailto: kathylambusiness@gmail.com"> Email: kathylambusiness@gmail.com </a>
+     <a href= "mailto: kathylambusiness@gmail.com"> Email</a>
 
 <h3>🗃️ Repo / Project List</h3>
      <h4>CV</h4>
