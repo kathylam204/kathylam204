@@ -37,6 +37,7 @@ Here are some ideas to get you started:-->
      <h4>Javascript</h4>
      <a href= "https://github.com/kathylam204/coin-flip"> Coin Flip </a>
      <h4>Java</h4>
+     <a href= "https://github.com/kathylam204/calculator"> Basic Calculator </a>
      <h4>Python</h4>
      <h4>C#</h4>
      <h4>SQL</h4>
