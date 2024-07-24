@@ -19,6 +19,8 @@ Here are some ideas to get you started:-->
      <h4>SQL</h4>
      <h4>Typescript</h4>
      <h4>C++</h4>
+     <h4>React</h4>
+     <h4>Go</h4>
      <!--<p>CV</p>
      <a href= "https://github.com/kathylam204"> Github </a> <br>
      <a href= "mailto: kathylambusiness@gmail.com"> Email: kathylambusiness@gmail.com </a>-->
