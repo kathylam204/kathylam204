@@ -9,7 +9,7 @@ Here are some ideas to get you started:-->
 
 ✧ <a href= "https://kathylam204.github.io/"> Me </a> ✧ <a href= "https://www.linkedin.com/in/klam204/"> Linkedin </a> ✧ <a href= "mailto: kathylambusiness@gmail.com"> Email</a> ✧
 
-<h3>🗃️ Repo / Project List</h3>
+<h3>🗃️ Repo / Project Listing</h3>
      <h4>Javascript</h4>
      <a href= "https://github.com/kathylam204/coin-flip"> Coin Flip </a>
      <h4>Java</h4>
