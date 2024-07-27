@@ -15,6 +15,7 @@ Here are some ideas to get you started:-->
      <h4>Java</h4>
      <a href= "https://github.com/kathylam204/calculator"> Basic Calculator </a>
      <h4>Python</h4>
+     <a href= "https://github.com/kathylam204/password-generator"> Password Generator </a>
      <h4>C#</h4>
      <h4>SQL</h4>
      <h4>Typescript</h4>
