@@ -10,7 +10,7 @@
 	<h4>Javascript</h4>
 	<a href= "https://github.com/kathylam204/coin-flip"> Coin Flip </a>
 	<h4>Java</h4>
-	<a href= "https://github.com/kathylam204/calculator"> Basic Calculator </a>
+	<a href= "https://github.com/kathylam204/calculator"> Basic Calculator </a> <br>
 	<a href= "https://github.com/kathylam204/numbergenerator"> Random Number Generator</a> (Kept the values low so it can be a makeshift DND Dice)
 	<h4>Python</h4>
 	<a href= "https://github.com/kathylam204/password-generator"> Password Generator </a>
