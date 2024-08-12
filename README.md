@@ -1,4 +1,4 @@
-## About Me
+## About Me ✨
 
 
 <!--If anyone sees this, no you didn't! ✨-->
