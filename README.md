@@ -7,4 +7,4 @@
 
 <h3>Links📎</h3>
 ✧ <a href= "https://kathylam204.github.io/"> Me </a> ✧ <a href= "https://github.com/kathylam204/project-listing"> Repo / Project List </a> ✧ <a href= "https://www.linkedin.com/in/klam204/"> Linkedin </a> ✧ <a href= "mailto: kathylambusiness@gmail.com"> Email</a> ✧ <br>
-✧ <a href= "https://www.w3profile.com/klam204"> W3Schools </a> ✧ ✧ ✧ ✧
+✧ <a href="https://www.upwork.com/freelancers/~014119e04e76a369c4?viewMode=1">Upwork</a> ✧ <a href= "https://www.w3profile.com/klam204"> W3Schools </a> ✧ ✧ ✧
