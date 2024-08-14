@@ -1,6 +1,6 @@
 <h1 align="center">Hiya, I'm Kathy</h1>
 <h3 align="center">💻 A passionate software/frontend/fullstack developer from the USA interested in data analysis, web applications, machine learning, and technology in general.</h3>
-<p>I started my journey getting into coding in middle school through HTML and Python, but I never got into it until highschool when I first touched Java and C# for the first time. I graduated highschool with some knowledge in HTML, CSS, and Javascript due to me studying for my MTA, I graduated college with a Bachelor's in Computer Science and now I'm trying to build up my github portfolio.</p>
+<p align="center">I started my journey getting into coding in middle school through HTML and Python, but I never got into it until highschool when I first touched Java and C# for the first time. I graduated highschool with some knowledge in HTML, CSS, and Javascript due to me studying for my MTA, I graduated college with a Bachelor's in Computer Science and now I'm trying to build up my github portfolio.</p>
 
 <!--If anyone sees this, no you didn't! ✨-->
 
