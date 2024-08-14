@@ -22,8 +22,8 @@
 <p><a href="https://ko-fi.com/daisynefi"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="daisynefi" /></a></p><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kathylam204&label=Profile%20views&color=5cc0ff&style=plastic" alt="kathylam204" /> </p><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kathylam204&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="kathylam204" /></p><br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kathylam204" alt="kathylam204" /></a> </p><br>
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kathy Lam
+<br>
+Hi! My name is Kathy Lam
 =================================================================================================================================
 
 Software / Frontend / Fullstack Developer
@@ -57,7 +57,7 @@ I started my journey getting into coding in middle school through HTML and Pytho
 <b>My GitHub Stats</b>
 <a href="http://www.github.com/kathylam204"><img src="https://github-readme-stats.vercel.app/api?username=kathylam204&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kathylam204's GitHub stats" /></a>
 <a href="https://github.com/kathylam204" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathylam204&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kathylam204" alt="kathylam204" /></a> </p>
 ### Support Me
 
 <ul style="list-style-type: none; margin: 0;">
