@@ -1,5 +1,5 @@
-<h1 align="center">🌼Hiya, I'm Kathy🌼</h1>
-<h3 align="center">💻Software/Frontend developer💻</h3>
+# Hiya, I'm Kathy 🌼
+### Software/Frontend developer 💻
 
 <!--If anyone sees this, no you didn't! ✨-->
 
