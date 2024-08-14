@@ -27,4 +27,3 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kathylam204" alt="kathylam204" /></a> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kathylam204&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="kathylam204" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kathylam204&show_icons=true&locale=en" alt="kathylam204" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kathylam204&" alt="kathylam204" /></p>
