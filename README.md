@@ -4,10 +4,7 @@
 <!--If anyone sees this, no you didn't! ✨-->
 
 <h3 align="left">Connect with me📎</h3>
-✧ <a href= "https://kathylam204.github.io/"> Me </a> ✧ <a href= "https://github.com/kathylam204/project-listing"> Repo / Project List </a> ✧ <a href= "https://www.linkedin.com/in/klam204/"> Linkedin </a> ✧ <a href= "mailto: kathylambusiness@gmail.com"> Email</a> ✧ <br>
-✧ <a href="https://www.upwork.com/freelancers/~014119e04e76a369c4?viewMode=1">Upwork</a> ✧ <a href="https://learn.microsoft.com/en-us/users/klam204/?tab=tab-learning-paths">Microsoft Learn</a> ✧ ✧ ✧
-<hr>
-
+✧ <a href= "https://kathylam204.github.io/"> Me </a> ✧ <a href= "https://github.com/kathylam204/project-listing"> Repo / Project List </a> ✧ <a href= "mailto: kathylambusiness@gmail.com"> Email</a> ✧ <a href="https://www.upwork.com/freelancers/~014119e04e76a369c4?viewMode=1">Upwork</a> ✧ <a href="https://learn.microsoft.com/en-us/users/klam204/?tab=tab-learning-paths">Microsoft Learn</a> ✧
 <p align="left">
 <a href="https://linkedin.com/in/klam204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="klam204" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/26828098" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="26828098" height="30" width="40" /></a>
