@@ -10,4 +10,4 @@
 ✧ <a href="https://www.upwork.com/freelancers/~014119e04e76a369c4?viewMode=1">Upwork</a> ✧ <a href="https://learn.microsoft.com/en-us/users/klam204/?tab=tab-learning-paths">Microsoft Learn</a> ✧ ✧ ✧
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kathylam204)](https://git.io/streak-stats)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=cutechibi204&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=cutechibi204&redirect=true)
