@@ -22,8 +22,8 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/daisynefi"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="daisynefi" /></a></p><br><br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kathylam204&label=Profile%20views&color=5cc0ff&style=plastic" alt="kathylam204" /> </p><br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kathylam204" alt="kathylam204" /></a> </p><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kathylam204&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="kathylam204" /></p><br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kathylam204&show_icons=true&locale=en" alt="kathylam204" /></p><br>
+<p><a href="https://ko-fi.com/daisynefi"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="daisynefi" /></a></p><hr>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kathylam204&label=Profile%20views&color=5cc0ff&style=plastic" alt="kathylam204" /> </p><hr>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kathylam204" alt="kathylam204" /></a> </p><hr>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kathylam204&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="kathylam204" /></p><hr>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kathylam204&show_icons=true&locale=en" alt="kathylam204" /></p><hr>
