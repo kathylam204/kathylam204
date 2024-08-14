@@ -4,14 +4,7 @@
 <!--If anyone sees this, no you didn't! ✨-->
 
 ### Links📎
-✧ <a href= "https://kathylam204.github.io/"> Me </a> ✧ <a href= "https://github.com/kathylam204/project-listing"> Repo / Project List </a> ✧ <a href= "mailto: kathylambusiness@gmail.com"> Email</a> ✧ <a href="https://www.upwork.com/freelancers/~014119e04e76a369c4?viewMode=1">Upwork</a> ✧ <a href="https://learn.microsoft.com/en-us/users/klam204/?tab=tab-learning-paths">Microsoft Learn</a> ✧ <a href="https://www.hackerrank.com/kathylam2001">HackerRank</a> ✧ <a href="https://www.leetcode.com/gtzxkj0fay">LeetCode</a> ✧ 
-
-### Socials
-<p align="left">
-<a href="https://www.github.com/kathylam204" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
-<a href="https://www.linkedin.com/in/klam204" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
-<a href="https://www.stackoverflow.com/users/26828098" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a>
-</p>
+✧ <a href= "https://kathylam204.github.io/"> Me </a> ✧ <a href= "https://github.com/kathylam204/project-listing">Repo / Project List</a> ✧ <a href= "https://www.linkedin.com/in/klam204">LinkedIn</a> ✧ <a href= "mailto: kathylambusiness@gmail.com"> Email</a> ✧ <a href="https://www.stackoverflow.com/users/26828098">StackOverflow</a> ✧ <a href="https://www.upwork.com/freelancers/~014119e04e76a369c4?viewMode=1">Upwork</a> ✧ <a href="https://learn.microsoft.com/en-us/users/klam204/?tab=tab-learning-paths">Microsoft Learn</a> ✧ <a href="https://www.hackerrank.com/kathylam2001">HackerRank</a> ✧ <a href="https://www.leetcode.com/gtzxkj0fay">LeetCode</a> ✧ 
 
 ### Skills
 <p align="left">
