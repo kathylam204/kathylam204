@@ -31,8 +31,6 @@ Software / Frontend / Fullstack Developer
 
 I started my journey getting into coding in middle school through HTML and Python, but I never got into it until highschool when I first touched Java and C# for the first time. I graduated highschool with some knowledge in HTML, CSS, and Javascript due to me studying for my MTA, I graduated college with a Bachelor's in Computer Science and now I'm trying to build up my github portfolio.
 
-* 🌍  I'm based in Atlanta, Georgia
-
 ### Links📎
 ✧ <a href= "https://kathylam204.github.io/"> Me </a> ✧ <a href= "https://github.com/kathylam204/project-listing"> Repo / Project List </a> ✧ <a href= "mailto: kathylambusiness@gmail.com"> Email</a> ✧ <a href="https://www.upwork.com/freelancers/~014119e04e76a369c4?viewMode=1">Upwork</a> ✧ <a href="https://learn.microsoft.com/en-us/users/klam204/?tab=tab-learning-paths">Microsoft Learn</a> ✧
 
