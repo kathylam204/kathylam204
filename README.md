@@ -1,4 +1,3 @@
-## About Me ✨
 <h1 align="center">Hiya, I'm Kathy</h1>
 <h3 align="center">💻 A passionate software/frontend developer from the USA interested in data analysis, web applications, machine learning, and technology in general.</h3>
 
