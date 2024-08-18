@@ -1,6 +1,6 @@
 ### Links📎
-✧ <a href= "https://kathylam204.github.io/">Me</a> ✧ <a href= "https://github.com/kathylam204/project-listing">Projects</a> ✧ <a href= "https://www.linkedin.com/in/klam204">LinkedIn</a> ✧ <a href= "mailto: kathylambusiness@gmail.com">kathylambusiness@gmail.com</a> ✧ <a href="https://www.upwork.com/freelancers/~014119e04e76a369c4?viewMode=1">Upwork</a> ✧  ✧  <br>
-✧ <a href="https://www.stackoverflow.com/users/26828098">StackOverflow</a> ✧ <a href="https://learn.microsoft.com/en-us/users/klam204/?tab=tab-learning-paths">Microsoft Learn</a> ✧ <a href="https://www.hackerrank.com/kathylam2001">HackerRank</a> ✧ <a href="https://www.leetcode.com/gtzxkj0fay">LeetCode</a> ✧ [HackerEarth](https://www.hackerearth.com/@kathylam2001) ✧
+✧ [Me](https://kathylam204.github.io) ✧ [Projects](https://github.com/kathylam204/project-listing) ✧ [LinkedIn](https://www.linkedin.com/in/klam204)<a href= ""></a> ✧ [kathylambusiness@gmail.com](mailto:kathylambusiness@gmail.com) ✧ [Upwork](href="https://www.upwork.com/freelancers/~014119e04e76a369c4?viewMode=1) ✧  ✧  <br>
+✧ [StackOverflow](https://www.stackoverflow.com/users/26828098) ✧ [Microsoft Learn](https://learn.microsoft.com/en-us/users/klam204/?tab=tab-learning-paths) ✧ [HackerRank](https://www.hackerrank.com/kathylam2001) ✧ [LeetCode](https://www.leetcode.com/gtzxkj0fay) ✧ [HackerEarth](https://www.hackerearth.com/@kathylam2001) ✧
 
 ### Badges
 <a href="https://github.com/kathylam204" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathylam204&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0c1017&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /> <br>
