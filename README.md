@@ -1,5 +1,5 @@
 ### Links📎
-✧ [Me](https://kathylam204.github.io) ✧ [Projects](https://github.com/kathylam204/project-listing) ✧ [LinkedIn](https://www.linkedin.com/in/klam204)<a href= ""></a> ✧ [kathylambusiness@gmail.com](mailto:kathylambusiness@gmail.com) ✧ [Upwork](https://www.upwork.com/freelancers/~014119e04e76a369c4?viewMode=1) ✧  ✧  <br>
+✧ [Me](https://kathylam204.github.io) ✧ [Projects](https://github.com/kathylam204/project-listing) ✧ [LinkedIn](https://www.linkedin.com/in/klam204)<a href= ""></a> ✧ [kathylambusiness@gmail.com](mailto:kathylambusiness@gmail.com) ✧ [Upwork](https://www.upwork.com/freelancers/~014119e04e76a369c4) ✧  ✧  <br>
 ✧ [StackOverflow](https://www.stackoverflow.com/users/26828098) ✧ [Microsoft Learn](https://learn.microsoft.com/en-us/users/klam204/?tab=tab-learning-paths) ✧ [HackerRank](https://www.hackerrank.com/kathylam2001) ✧ [LeetCode](https://www.leetcode.com/gtzxkj0fay) ✧ [HackerEarth](https://www.hackerearth.com/@kathylam2001) ✧
 
 ### Badges
