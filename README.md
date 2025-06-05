@@ -9,5 +9,5 @@
 </a>
 
 <hr>
-
+<sub><sup>please excuse me overplaying the same songs over sometimes</sup></sub>
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=cutechibi204&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&bar_color=4375ea&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=cutechibi204&redirect=true)
