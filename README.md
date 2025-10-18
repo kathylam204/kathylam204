@@ -11,33 +11,33 @@ IT Support Specialist (ServiceNow • Microsoft 365 • Windows) with a B.S. in 
 ### Skills
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-ITSM-0f4c81)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-Admin-217346)
-![Active Directory](https://img.shields.io/badge/Active%20Directory-User%20Mgmt-0a66c2)
 ![Windows 10/11](https://img.shields.io/badge/Windows-10%2F11-0078D4)
-![PowerShell](https://img.shields.io/badge/PowerShell-Scripting-2f74c0)
-![Azure](https://img.shields.io/badge/Azure-Fundamentals-0078D4)
 ![Networking](https://img.shields.io/badge/Networking-DNS%20%7C%20DHCP%20%7C%20VPN-555)
 ![Python](https://img.shields.io/badge/Python-Utilities-3776AB)
 ![Documentation](https://img.shields.io/badge/KB-Authoring-795548)
-
+<!--![Active Directory](https://img.shields.io/badge/Active%20Directory-User%20Mgmt-0a66c2)-->
+<!--![PowerShell](https://img.shields.io/badge/PowerShell-Scripting-2f74c0)-->
+<!--![Azure](https://img.shields.io/badge/Azure-Fundamentals-0078D4)-->
 ---
 
 ### Featured Projects
+ <!--
 - **PowerShell Automation** — System info collector, mock AD user creation from CSV, folder backup with timestamps.  
 `PowerShell • Windows • Automation`  
-`powershell-automation` (link when ready)
+`powershell-automation` [](link when ready)
 
 - **Windows Troubleshooting KBs** — Outlook sync, printer offline, Wi-Fi issues, MFA/365 fixes; each with steps & commands.  
 `Documentation • Support Workflows`  
-`windows-troubleshooting` (link when ready)
+`windows-troubleshooting` [](link when ready)
 
 - **ServiceNow Case Studies** — Incident vs. request, prioritization, SLA handling, escalation & closure comments (sanitized).  
 `ITIL • ITSM • Communication`  
-`servicenow-case-studies` (link when ready)
+`servicenow-case-studies` [](link when ready)
 
 - **Azure Lab Notes** — Create a VM with Azure CLI/PowerShell, RDP, NSG basics; command outputs included.  
 `Azure • IaaS • CLI`  
-`azure-lab` (link when ready)
-
+`azure-lab` [](link when ready)
+-->
 - **Learning Notes** — Structured notes from CS → IT: Windows, Networking, M365, AD, PowerShell, Azure.  
 [learning-notes](https://github.com/kathylam204/learning-notes)
 
