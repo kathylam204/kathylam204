@@ -47,6 +47,7 @@ IT Support Specialist (ServiceNow • Microsoft 365 • Windows) with a B.S. in 
 ---
 
 ### GitHub Stats
+<a href="https://github.com/kathylam204" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathylam204&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0c1017&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 <a href="https://github.com/kathylam204">
   <img src="https://github-readme-stats.vercel.app/api?username=kathylam204&show_icons=true&count_private=true&bg_color=0c1017&text_color=ffffff&title_color=0891b2&icon_color=0891b2&hide_border=true" alt="Kathy's GitHub stats" />
 </a>
