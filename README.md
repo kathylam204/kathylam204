@@ -37,11 +37,8 @@ IT Support Specialist (ServiceNow • Microsoft 365 • Windows) with a B.S. in 
 `Azure • IaaS • CLI`  
 `azure-lab` [](link when ready)
 -->
-- **Learning Notes** — Structured notes from CS → IT: Windows, Networking, M365, AD, PowerShell, Azure.  
-[learning-notes](https://github.com/kathylam204/learning-notes)
-
-- **Portfolio Site** — One-page CV + project links.  
-[kathylam204.github.io](https://kathylam204.github.io)
+- **Learning Notes** — Structured notes from CS + IT: [learning-notes](https://github.com/kathylam204/learning-notes)
+- **Portfolio Site** — One-page CV + project links.  [kathylam204.github.io](https://kathylam204.github.io)
 
 ---
 
