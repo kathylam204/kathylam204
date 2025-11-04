@@ -39,6 +39,8 @@ IT Support Specialist (ServiceNow • Microsoft 365 • Windows) with a B.S. in 
 -->
 - **Learning Notes** Structured notes: [learning-notes](https://github.com/kathylam204/learning-notes)
 - **Portfolio Site** CV:  [kathylam204.github.io](https://kathylam204.github.io)
+- **Tech Journal** Personal Troubleshooting Journal: [tech-journal](https://github.com/kathylam204/tech-journal)
+- **Case Studies** Case Studies:  [it-case-studies](https://kathylam204.github.io)
 
 ---
 
