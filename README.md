@@ -1,4 +1,4 @@
-# Kathy Lam (Github WIP!)
+# Kathy Lam
 
 IT Support Specialist (ServiceNow • Microsoft 365 • Windows) with a B.S. in Computer Science.
 
