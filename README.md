@@ -14,29 +14,12 @@ IT Support Specialist (ServiceNow • Microsoft 365 • Windows) with a B.S. in 
 ![Networking](https://img.shields.io/badge/Networking-DNS%20%7C%20DHCP%20%7C%20VPN-555)
 ![Python](https://img.shields.io/badge/Python-Utilities-3776AB)
 ![Documentation](https://img.shields.io/badge/KB-Authoring-795548)
-<!--![Active Directory](https://img.shields.io/badge/Active%20Directory-User%20Mgmt-0a66c2)-->
-<!--![PowerShell](https://img.shields.io/badge/PowerShell-Scripting-2f74c0)-->
-<!--![Azure](https://img.shields.io/badge/Azure-Fundamentals-0078D4)-->
+![Active Directory](https://img.shields.io/badge/Active%20Directory-User%20Mgmt-0a66c2)
+![PowerShell](https://img.shields.io/badge/PowerShell-Scripting-2f74c0)
+![Azure](https://img.shields.io/badge/Azure-Fundamentals-0078D4)
 ---
 
 ### Featured Repos
- <!--
-- **PowerShell Automation** — System info collector, mock AD user creation from CSV, folder backup with timestamps.  
-`PowerShell • Windows • Automation`  
-`powershell-automation` [](link when ready)
-
-- **Windows Troubleshooting KBs** — Outlook sync, printer offline, Wi-Fi issues, MFA/365 fixes; each with steps & commands.  
-`Documentation • Support Workflows`  
-`windows-troubleshooting` [](link when ready)
-
-- **ServiceNow Case Studies** — Incident vs. request, prioritization, SLA handling, escalation & closure comments (sanitized).  
-`ITIL • ITSM • Communication`  
-`servicenow-case-studies` [](link when ready)
-
-- **Azure Lab Notes** — Create a VM with Azure CLI/PowerShell, RDP, NSG basics; command outputs included.  
-`Azure • IaaS • CLI`  
-`azure-lab` [](link when ready)
--->
 - **Portfolio Site** CV:  [kathylam204.github.io](https://kathylam204.github.io)
 - **Learning Notes** Structured notes: [learning-notes](https://github.com/kathylam204/learning-notes)
 - **Tech Journal** Personal Troubleshooting Journal: [tech-journal](https://github.com/kathylam204/tech-journal)
