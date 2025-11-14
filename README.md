@@ -3,7 +3,7 @@
 IT Support Specialist (ServiceNow • Microsoft 365 • Windows) with a B.S. in Computer Science.
 
 ### Links
-[Portfolio](https://kathylam204.github.io) ✧ [Projects](https://github.com/kathylam204/project-listing) ✧ [LinkedIn](https://www.linkedin.com/in/klam204) ✧ [Email](mailto:kathylambusiness@gmail.com)
+[Portfolio](https://kathylam204.github.io) ✧ [LinkedIn](https://www.linkedin.com/in/klam204) ✧ [Email](mailto:kathylambusiness@gmail.com)
 
 ---
 
