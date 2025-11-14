@@ -16,7 +16,6 @@ IT Support Specialist (ServiceNow • Microsoft 365 • Windows) with a B.S. in 
 ![Documentation](https://img.shields.io/badge/KB-Authoring-795548)
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-User%20Mgmt-0a66c2)
 ![PowerShell](https://img.shields.io/badge/PowerShell-Scripting-2f74c0)
-![Azure](https://img.shields.io/badge/Azure-Fundamentals-0078D4)
 ---
 
 ### Featured Repos
