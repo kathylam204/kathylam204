@@ -39,7 +39,7 @@ IT Support Specialist (ServiceNow • Microsoft 365 • Windows) with a B.S. in 
 
 ---
 
-### Spotify
+### For Fun
 <sub>overplaying the same songs over and over</sub><br>
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=cutechibi204&redirect=true">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=cutechibi204&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&bar_color=4375ea&bar_color_cover=false" alt="Spotify Now Playing"/>
