@@ -13,7 +13,6 @@ IT Support Specialist (ServiceNow • Microsoft 365 • Windows) with a B.S. in 
 ![Windows 10/11](https://img.shields.io/badge/Windows-10%2F11-0078D4)
 ![Networking](https://img.shields.io/badge/Networking-DNS%20%7C%20DHCP%20%7C%20VPN-555)
 ![Python](https://img.shields.io/badge/Python-Utilities-3776AB)
-![Documentation](https://img.shields.io/badge/KB-Authoring-795548)
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-User%20Mgmt-0a66c2)
 ![PowerShell](https://img.shields.io/badge/PowerShell-Scripting-2f74c0)
 ---
