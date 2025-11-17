@@ -22,8 +22,8 @@ IT Support Specialist (ServiceNow • Microsoft 365 • Windows) with a B.S. in 
 - **Learning Notes** Structured notes: [learning-notes](https://github.com/kathylam204/learning-notes)
 - **Tech Journal** Personal Troubleshooting Journal: [tech-journal](https://github.com/kathylam204/tech-journal)
 - **Case Studies** Case Studies:  [it-case-studies](https://github.com/kathylam204/it-case-studies)
-- **Powershell Projects** All Powershell Projects:  [powershell-projects](https://github.com/kathylam204/powershell-projects)
 - **Python Projects** All Python Projects:  [python-projects](https://github.com/kathylam204/python-projects)
+- **Powershell Projects** All Powershell Projects:  [powershell-projects](https://github.com/kathylam204/powershell-projects)
 - **Javascript Projects** All Javacript Projects:  [javascript-projects](https://github.com/kathylam204/javascript-projects)
 - **Java Projects** All Java Projects:  [java-projects](https://github.com/kathylam204/java-projects)
 
